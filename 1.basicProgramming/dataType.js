@@ -61,5 +61,17 @@
 27.JSON Data Type ==> Javascript has only 1 data type which is:
 27.1.JSON
 28.Promise Data Type ==> Javascript has only 1 data type which is:
-28.1.Promise
-2.Object Data Type */
+28.1.Promise */
+// typescript data types are:
+// 1.string
+// 2.number
+// 3.boolean
+// 4.enum
+// 5.any
+// 6.void
+// 7.null
+// 8.undefined
+// 9.never
+// 10.object
+// 11.symbol
+// 12.function
