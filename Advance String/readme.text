@@ -1,0 +1,15 @@
+1. String.chartAt(index) ==> it will return the character at the index
+2. String.indexOf(searchString, position)
+    - case sensitive
+    - if not find then return -1
+    - start searching from first of the sentence
+    - if we don't pass any position then the default value wil be 0
+    - negative number position will be behave like 0
+3. String.lastIndexOf(searchString, position)
+    - case sensitive
+    - if not find then return -1
+    - start searching from last of the sentence
+    - if we don't pass any position then the default value wil be infinity
+    - negative number position will be behave like 0
+4. String.slice()
+5. String.substring()
