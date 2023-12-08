@@ -13,3 +13,14 @@
     - negative number position will be behave like 0
 4. String.slice()
 5. String.substring()
+6. String.split()
+7. String.includes()
+8. String.startsWith()
+9. String.endsWith()
+10. String.concat()
+11. String.repeat(count)
+12. String.trim()
+13. String.trimStart()
+14. String.trimEnd()
+
+9-27
