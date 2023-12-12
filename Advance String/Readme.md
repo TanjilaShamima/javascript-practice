@@ -22,5 +22,14 @@
 12. String.trim()
 13. String.trimStart()
 14. String.trimEnd()
+15. String.padStart()
+16. String.padEnd()
+17. String.localCompare(compareString)
+18. String.search()
+19. String.match(regexp)
+20. String.matchAll(regexp)
+21. String.replace()
+22. String.replaceAll()
+23.
 
 9-27
